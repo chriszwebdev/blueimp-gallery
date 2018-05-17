@@ -22,14 +22,14 @@
     "slideshow",
     "fullscreen"
   ],
-  "homepage": "https://github.com/chriszwebdev/Gallery",
+  "homepage": "https://github.com/chriszwebdev/blueimp-gallery/Gallery",
   "author": {
     "name": "Chris Zaiin",
     "url": "https://blueimp.net"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/chriszwebdev/Gallery.git"
+    "url": "git://github.com/chriszwebdev/Gallery.git"
   },
   "license": "MIT",
   "devDependencies": {
